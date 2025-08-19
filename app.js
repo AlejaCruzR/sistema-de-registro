@@ -1,1 +1,1 @@
-console.oge ("Ejecutando el sistema")
+console.log ("Ejecutando el sistema");
